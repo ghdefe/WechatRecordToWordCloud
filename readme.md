@@ -4,7 +4,7 @@
 https://github.com/Heyxk/notes/issues/1
 ## 项目说明
 
-该项目根据微信聊天记录，使用jieba分词后，利用wordcloud生成对应的词云
+该项目根据微信聊天记录，使用jieba分词后，利用wordcloud生成对应的词云。
 
 
 词云形状颜色可以根据自定义图片生成，因此，该词云缩小了看是一个低分辨率图片。
