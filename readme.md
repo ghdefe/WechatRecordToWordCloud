@@ -1,5 +1,9 @@
 # 微信聊天记录生成特定图片图云
 
+## 提取聊天记录到csv参考教程
+https://github.com/Heyxk/notes/issues/1
+## 项目说明
+
 该项目根据微信聊天记录，使用jieba分词后，利用wordcloud生成对应的词云
 
 
